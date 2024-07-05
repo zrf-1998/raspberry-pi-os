@@ -1,6 +1,6 @@
 #include "mini_uart.h"
 
-void kernel_main(miniuart_baud_t baudrate)
+void kernel_main()
 {
 	char ch;
 
